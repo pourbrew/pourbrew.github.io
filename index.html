@@ -1,45 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+---
+layout: default
+title: Your New Jekyll Site
+---
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
-    <title>PouredBrew by pourbrew</title>
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <h1>PouredBrew</h1>
-        <h2>Pourbrew's Code Blog</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/pourbrew" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <p>Finally set up a place to talk about code. Excited to see where this goes.</p>
-      </section>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-44089530-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-  </body>
-</html>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
