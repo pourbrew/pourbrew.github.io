@@ -10,9 +10,9 @@ owner:
   bio:            "always coding. connoisseur of Library of Congress book summaries. coffee and local beer-fueled trail runner. rain for blood."
   email:          taylor@pourbrew.co
   # Social networking links used in footer. Update and remove as you like.
-  twitter: @pourbrew
+  twitter: http://twitter.com/pourbrew
   facebook: http://facebook.com/pourbrew
-  github: @pourbrew
+  github: https://github.com/pourbrew
   stackexchange:
   linkedin: http://www.linkedin.com/in/blacktaylor
   instagram:
