@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+title: Small Repeated Tasks
+description: "Sometimes you have to crawl before you can run."
+modified: 2013-09-18
 category: articles
-tags: [intro, beginner, jekyll, tutorial]
+tags: [baby steps, code, exercise, routine]
 image:
   feature: texture-feature-05.jpg
   credit: Texture Lovers
