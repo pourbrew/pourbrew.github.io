@@ -1,18 +1,18 @@
 title:            Poured Brews
-description:      Describe your website here.
-disqus_shortname: shortname
+description:      Pints of code and coding.
+disqus_shortname: pourbrew
 url:              http://pourbrew.co
 
 # Owner/author information
 owner:
   name:           Taylor Black
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "always coding. connoisseur of Library of Congress book summaries. coffee and local beer-fueled trail runner. rain for blood."
   email:          taylor@fizzyinc.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter: @pourbrew
+  facebook: facebook.com/pourbrew
+  github: @pourbrew
   stackexchange:
   linkedin:
   instagram:
@@ -23,17 +23,28 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
-google_verify:
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44089530-1', 'pourbrew.co');
+  ga('send', 'pageview');
+
+</script>
+google_verify: <meta name="google-site-verification" content="HhGsRt0Sj3LAjxgBhgjJVQbSFrD6YuLpbaR5HnCpHgQ" />
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
+  - title: Fizzy Inc
+    url: http://fizzyinc.com
+    external: true
+  - title: Skora Running
+    url: http://www.skorarunning.com/?acc=182be0c5cdcd5072bb1864cdee4d3d6e&bannerid=3
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
