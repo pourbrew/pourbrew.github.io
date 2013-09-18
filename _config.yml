@@ -8,22 +8,21 @@ owner:
   name:           Taylor Black
   avatar:         avatar.jpg
   bio:            "always coding. connoisseur of Library of Congress book summaries. coffee and local beer-fueled trail runner. rain for blood."
-  email:          taylor@fizzyinc.com
+  email:          taylor@pourbrew.co
   # Social networking links used in footer. Update and remove as you like.
   twitter: @pourbrew
-  facebook: facebook.com/pourbrew
+  facebook: http://facebook.com/pourbrew
   github: @pourbrew
   stackexchange:
-  linkedin:
+  linkedin: http://www.linkedin.com/in/blacktaylor
   instagram:
   flickr:
-  tumblr:
+  tumblr: http://pourbrew.tumblr.com
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-44089530-1
-
 google_verify: <meta name="google-site-verification" content="HhGsRt0Sj3LAjxgBhgjJVQbSFrD6YuLpbaR5HnCpHgQ" />
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
