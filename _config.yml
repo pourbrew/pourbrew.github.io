@@ -6,7 +6,7 @@ url:              http://pourbrew.co
 # Owner/author information
 owner:
   name:           Taylor Black
-  avatar:         avatar.jpg
+  avatar:         bio-photo.jpg
   bio:            "always coding. connoisseur of Library of Congress book summaries. coffee and local beer-fueled trail runner. rain for blood."
   email:          taylor@pourbrew.co
   # Social networking links used in footer. Update and remove as you like.
@@ -34,7 +34,7 @@ links:
     url: http://fizzyinc.com
     external: true
   - title: Skora Running
-    url: http://www.skorarunning.com/?acc=182be0c5cdcd5072bb1864cdee4d3d6e&bannerid=3
+    url: http://www.skorarunning.com/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
