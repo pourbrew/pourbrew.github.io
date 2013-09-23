@@ -8,16 +8,6 @@ tags: [format, expectations, yerning, routine]
 image:
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Contents</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section>
-
 # Sometimes you just need to write.
 I stopped thinking about writing as a chore when I realized I needed to free my form. Long form is awesome but I felt like I owed it something. It had to be epic, edited, lengthy, thorough in the extreme. Some pieces do. Most don't.
 
