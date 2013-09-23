@@ -9,3 +9,11 @@ image:
 ---
 
 Starting with what I want to do, blending with what we're good at, mixing up with a bit of customer reviews, and shaking hard.
+
+Here's what we got:
+* Front End Web Dev (HTML5 + CSS)
+* Back End Web Dev (PHP + Javascript + jQuery)
+* Design (Typography + Minimal + Photography)
+* Reworking Existing Sites
+* Optimization
+* Hosting (Regular + Pro(CloudFlare + better response time + higher frequency backups))
