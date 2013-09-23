@@ -19,11 +19,11 @@ owner:
   flickr:
   tumblr: http://pourbrew.tumblr.com
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: https://plus.google.com/u/0/109120289684383134832/posts
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-44089530-1
-google_verify: <meta name="google-site-verification" content="HhGsRt0Sj3LAjxgBhgjJVQbSFrD6YuLpbaR5HnCpHgQ" />
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
