@@ -2,7 +2,7 @@
 layout: post
 title: Trance Music and Focus
 description: ""
-modified: 2013-09-23
+modified: 2013-12-03
 category: articles
 tags: [format, expectations, yerning, routine]
 image:
