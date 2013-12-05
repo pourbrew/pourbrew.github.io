@@ -8,7 +8,7 @@ tags: [small business, paperwork, pricing]
 image:
 ---
 
-Starting with what I want to do, blending with what we're good at, mixing up with a bit of customer reviews, and shaking hard.
+Starting with what I want to do, blending with what we're good at, mixing up with a bit of customer reviews, working closely in a partner relationship with Hubspot, and shaking hard.
 
 Here's what we got:
 <li>Front End Web Dev (HTML5 + CSS)</li>
@@ -21,3 +21,5 @@ Here's what we got:
 <li>Lead Generation</li>
 <li>Convert Leads to Customers</li>
 <li>Return on Investment Analysis</li>
+
+We're building out a strategic plan, growing our development and design team, assembling a content management team, and learning like crazy. We'll be blogging about it over at [Fizzy Inc](http://fizzyinc.com), come see the wild!

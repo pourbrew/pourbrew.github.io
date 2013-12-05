@@ -8,16 +8,16 @@ owner:
   name:           Taylor Black
   avatar:         bio-photo.jpg
   bio:            "always coding. connoisseur of Library of Congress book summaries. coffee and local beer-fueled trail runner. rain for blood."
-  email:          taylor@pourbrew.co
+  email:          taylor@fizzyinc.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: http://twitter.com/pourbrew
-  facebook: http://facebook.com/pourbrew
-  github: https://github.com/pourbrew
+  twitter: pourbrew
+  facebook: pourbrew
+  github: pourbrew
   stackexchange:
-  linkedin: http://www.linkedin.com/in/blacktaylor
+  linkedin: blacktaylor
   instagram:
   flickr:
-  tumblr: http://pourbrew.tumblr.com
+  tumblr: pourbrew
   # For Google Authorship https://plus.google.com/authorship
   google_plus: https://plus.google.com/u/0/109120289684383134832/posts
 
@@ -35,6 +35,9 @@ links:
     external: true
   - title: Skora Running
     url: http://www.skorarunning.com/
+    external: true
+  - title: Resume
+    url: http://zerp.ly/pourbrew
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
