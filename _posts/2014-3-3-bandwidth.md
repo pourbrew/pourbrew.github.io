@@ -2,7 +2,7 @@
 layout: post
 title: Cognitive Bandwidth
 description: "Sometimes I'll be so focused on one thing that everything else disappears."
-modified: 2014-1-8
+modified: 2014-3-3
 category: articles
 tags: [single-minded, focus]
 image:
