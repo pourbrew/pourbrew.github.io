@@ -45,3 +45,5 @@ timezone:    America/Los_Angeles
 future:      true
 markdown: redcarpet
 pygments: true
+
+theme: jekyll-theme-cayman
