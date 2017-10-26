@@ -46,4 +46,4 @@ future:      true
 markdown: redcarpet
 pygments: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
